@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LaserIt</string>
+    <string name="logo">\'Laser it\'</string>
+    <string name="address">Kielce, Olszewskiego 6</string>
+    <string name="work_description">We offer broad range of services using laser technology</string>
+    <string name="phone">(48) 443 567 122</string>
+</resources>
