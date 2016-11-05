@@ -1,3 +1,3 @@
 # android_development
 
-Repository contains 'learn-features' projects.
+To be updated. Projects need to be revised.
